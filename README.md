@@ -2,7 +2,7 @@
 
 App de podcast integrada con la API de AudioBoom con Next.JS.
 
-![Captura de la app](./.readme-static/home.png)
+![Captura de la app](./.readme-static/home.PNG)
 
 [Ver la aplicación](https://podcast-app-brown.now.sh/)
 
